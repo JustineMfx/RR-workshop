@@ -1,6 +1,6 @@
 ---
 title: "Rendu ARCHE"
-author: "Name of the Student"
+author: "Justine Maufoux"
 output: pdf_document
 ---
 
