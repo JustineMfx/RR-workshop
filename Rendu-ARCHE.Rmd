@@ -6,8 +6,11 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, include= TRUE)
+install.packages("devtools")
+devtools::install_github( "ThinkR-open/prenoms" )
+library("prenoms")
 library(tidyverse)
-library(prenoms)
+
 ```
 
 ## On R
